@@ -31,13 +31,13 @@
 
 
 
-// const countSentanceSymbols = (sentance) => {
-//     alert(`В вашем предложении вот столько символом ${sentance.length}`);
-// };
+const countSentanceSymbols = (sentance) => {
+   alert(`В вашем предложении вот столько символом ${sentance.length}`);
+};
 
 
 
-// countSentanceSymbols(prompt("Напишите все что угодно"));
+countSentanceSymbols(prompt("Напишите все что угодно"));
 
 
 
